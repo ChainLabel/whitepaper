@@ -73,6 +73,7 @@ ________________
 
 
 1. Introduction
+
 1.1 Background on Semantic Data Structures and AI
 The process of semantic data enrichment, which involves systematically labeling and categorizing raw, unstructured data, is indispensable in the training of machine learning models. This process provides the necessary context that enables AI-driven systems to perform accurate inference and decision-making. As artificial intelligence technologies permeate diverse sectors, the need for vast amounts of meticulously labeled datasets has surged. However, traditional methods of data semantification, often relying on centralized platforms and manual processes, struggle to scale and meet the increasing demands for precision, reliability, and security.
 The advent of blockchain technology and advanced cryptographic techniques introduces a paradigm shift in the landscape of data contextualization. Blockchain’s decentralized and immutable ledger offers unmatched transparency, security, and trust, while cryptographic methods like homomorphic encryption and secure multi-party computation (SMPC) provide the necessary tools for maintaining data privacy. The integration of these technologies, combined with AI-enhanced quality control systems, holds the potential to overhaul the current approaches to metadata enrichment, promoting enhanced collaboration, cost reduction, and improved integrity of the labeled data.
