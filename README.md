@@ -13,50 +13,55 @@ This paper presents ChainLabel, a decentralized platform designed to fundamental
 ________________
 Table of contents
 1. Introduction
+
 1.1 Background on Semantic Data Structures and AI
+
 1.2 Problem Statement
+
 1.3 Objective of ChainLabel
+
 1.4 Key Contributions
-3. Related Work
+
+4. Related Work
 2.1 Comprehensive Analysis of Centralized Data Annotation Frameworks
 2.2 Rigorous Evaluation of Traditional Data Labeling Techniques
 2.3 Exhaustive Literature Synthesis on Blockchain, Cryptography, and AI in Data Semantification
-4. ChainLabel Architecture
+5. ChainLabel Architecture
 3.1 System Design Overview
 3.2 Decentralized Economy for Semantic Data Structure
 3.3 Smart Contract Framework
 3.4 Token Economy and Incentive Structure
-5. Data Privacy and Security
+6. Data Privacy and Security
 4.1 Garbled Circuit Computation Module (GCCM)
 4.2 Confidential Data Aggregation Protocol (CDAP)
 4.3 Attribute-Controlled Cryptographic Framework (ACCF)
 4.4 Distributed Collaborative Learning Engine (DCLE)
 4.5 Advanced Privacy-Preserving Technologies
-6. Quality Assurance Mechanisms
+7. Quality Assurance Mechanisms
 5.1 Human-in-the-Loop Validation Interface (HLVI)
 5.2 Autonomous Quality Verification Algorithms (AQVA)
 5.3 Distributed Reputation Ledger (DRL)
 5.4 Decentralized Consensus Validation Engine (DCVE)
-7. Blockchain Implementation
+8. Blockchain Implementation
 6.1 Ethereum as the Cryptographic Substrate
 6.2 Autonomous Smart Contract Infrastructure
-8. AI Integration for Annotation and Quality Control
+9. AI Integration for Annotation and Quality Control
 7.1 Active Learning Mechanisms (ALM)
 7.2 Autonomous Annotation Engines (AAE)
 7.3 Anomaly Detection and Validation System (ADVS)
 7.4 Distributed Validation Consensus Framework (DVCF)
-9. Case Studies and Use Cases
+10. Case Studies and Use Cases
 8.1 Industry Engagements
 8.2 Comparative Analysis with Traditional Methods
 8.3 Scalability and Efficiency
-10. Evaluation and Results
+11. Evaluation and Results
 9.1 Performance Metrics
 9.2 Security Analysis
 9.3 User Feedback
-11. Discussion
+12. Discussion
 10.1 Challenges and Obstacles
 10.2 Future Work and Research Directions
-12. Conclusion
+13. Conclusion
 11.1 Summary of Key Contributions
 11.2 Impact on the Data Semantification Landscape
 11.3 Call to Action for Adoption and Collaboration
