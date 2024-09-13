@@ -590,40 +590,75 @@ We invite these communities to participate in the continued refinement and expan
 
 ________________
 References
+
       1. Shafay, M., Ahmad, R. W., Salah, K., Yaqoob, I., Jayaraman, R., & Omar, M. (2022). Blockchain for deep learning: review and open challenges. Cluster Computing, 26(1), 197–221. https://doi.org/10.1007/s10586-022-03582-7
+      
       2. PrivacyRights.org | Privacy Rights clearinghouse. (n.d.). https://privacyrights.org/
+      
       3. The Secret Sauce Of AI Companies: The Importance Of Human-Annotated Data In High-Performing Machine Learning Models. (n.d.). https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/
+      
       4. Gartner. Gartner predicts that by 2025, 70% of data labeling tasks will be automated, increasing data accuracy by 50%. Available from: https://www.gartner.com/en
+      
       5. Huang, G., Luo, C., Wu, K., Ma, Y., Zhang, Y., & Liu, X. (2019). Software-Defined Infrastructure for decentralized Data Lifecycle Governance: Principled design and open challenges. https://www.semanticscholar.org/paper/Software-Defined-Infrastructure-for-Decentralized-Huang-Luo/af143cb66e61d48fa2eda49d6fd6d643754524d9
+      
       6. A Knowledge Graph Based Integration Approach for Industry 4.0. (n.d.-b). https://www.researchgate.net/publication/333532727_A_Knowledge_Graph_Based_Integration_Approach_for_Industry_40
+      
       7. Deng, W., Huang, T., & Wang, H. (2022). A review of the key technology in a blockchain building decentralized trust platform. Mathematics, 11(1), 101. https://doi.org/10.3390/math11010101
+      
       8. Garbled circuit. (n.d.). MPC Wiki. https://wiki.mpcalliance.org/garbled_circuit.html
+      
       9. Kilian, N. V. V. Y. a. C. T. (n.d.). The many faces of garbled circuits. Ppt Download. https://slideplayer.com/slide/14167640/
+      
       10. University of Illinois at Chicago. (n.d.). Yao’s Garbled Circuits: Recent Directions and Implementations. https://www.peteresnyder.com/static/papers/yao-lit-review-2014.pdf
+      
       11. Erskine, S. K. (2024). Secure data aggregation using authentication and authorization for privacy preservation in wireless sensor networks. Sensors, 24(7), 2090. https://doi.org/10.3390/s24072090
+      
       12. Chow, S. S. (2016). A Framework of Multi-Authority Attribute-Based Encryption with Outsourcing and Revocation. ACM. https://doi.org/10.1145/2914642.2914659
+      
       13. NTT Research. (2022, December 6). Attribute-based Encryption: Contributions - NTT research. NTT Research -. https://ntt-research.com/ntt-research-cis-cryptography-attribute-based-encryption/ 
+      
       14. Rethinking Federated Learning with Domain Shift: A Prototype View. (n.d.). Computer Vision Foundation. https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Rethinking_Federated_Learning_With_Domain_Shift_A_Prototype_View_CVPR_2023_paper.pdf
+      
       15. Digest, A. S. (2022, January 6). Centralized Learning vs. Distributed Learning - AI/Data Science Digest - Medium. Medium. https://digestize.medium.com/centralized-learning-vs-distributed-learning-c75ee9e94423
+      
       16. Gill, J. K. (2024, August 23). Distributed Machine Learning Frameworks and its Benefits. XenonStack. https://www.xenonstack.com/blog/distributed-ml-framework
+      
       17. Fundamental MPC Protocols. (n.d.). https://securecomputation.org/docs/ch3-fundamentalprotocols.pdf
+      
       18. Zero-Knowledge Proofs of Training for Deep Neural Networks. (n.d.). https://eprint.iacr.org/2024/162.pdf
+      
       19. The Algorithmic Foundations of Differential Privacy. (n.d.). Privacybook. https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf
+      
       20. Advancing Differential Privacy: Where We Are Now and Future Directions for Real-World Deployment. (n.d.). HDSR. https://hdsr.mitpress.mit.edu/pub/sl9we8gh/release/3
+      
       21. Secure Multi-Party Computation of Boolean Circuits with Applications to Privacy in On-Line Marketplaces. (n.d.). https://eprint.iacr.org/2011/257.pdf
+      
       22. Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning. (n.d.). Research Gate. https://www.researchgate.net/publication/349750818_Whole-cell_segmentation_of_tissue_images_with_human-level_performance_using_large-scale_data_annotation_and_deep_learning
+      
       23. Data Pipeline Validation — datatest 0.12.0.dev1 documentation. (n.d.). https://datatest.readthedocs.io/en/latest/intro/pipeline-validation.html
+      
       24. Hapke, H., & Nelson, C. (n.d.). Building machine learning pipelines. O’Reilly Online Learning. https://www.oreilly.com/library/view/building-machine-learning/9781492053187/ch04.html
+      
       25. Evaluation of Anomaly Detection Method Based on Pattern Recognition. (n.d.). https://www.iijlab.net/en/members/romain/pdf/romain_IEICE2010.pdf
+      
       26. Chakrabarti, A., Hürter, A., Budema, K., & Chee, J. (2022, October 5). Taking Shape: Artificial Intelligence Regulation and its Impact on CSV/CSA (III). Kvalito. https://kvalito.ch/taking-shape-artificial-intelligence-regulation-and-its-impact-on-csv-csa-iii/ 
+      
       27. Pattern Recognition and Anomaly Detection in Bookkeeping Data. (n.d.). https://abfer.org/media/abfer-events-2021/annual-conference/papers-accounting/AC21P5036_Pattern-Recognition-and-Anomaly-Detection-in-Bookkeeping-Data.pdf
+      
       28. Understanding Decentralization And Consensus Mechanisms. (n.d.). Faster Capital. https://fastercapital.com/topics/understanding-decentralization-and-consensus-mechanisms.html/9
+      
       29. The mechanisms of active learning and semi-supervised learning. (n.d.). ResearchGate. https://www.researchgate.net/figure/The-mechanisms-of-active-learning-and-semi-supervised-learning_fig1_369764461
+      
       30. Wang, X., Chi, X., Song, Y., & Yang, Z. (2023). Active learning with label quality control. PeerJ Computer Science, 9, e1480. https://doi.org/10.7717/peerj-cs.1480
+      
       31. Michael. (2024, June 25). Image Annotation and Labeling: best practices. Keymakr’s Blog Features the Latest News and Updates. https://keymakr.com/blog/image-annotation-and-labeling-best-practices/
+      
       32. An, G., Park, J., & Lee, K. (2023). Contrastive Learning-Based Anomaly detection for actual corporate environments. Sensors, 23(10), 4764. https://doi.org/10.3390/s23104764
+      
       33. Churová, V., Vyškovský, R., Maršálová, K., Kudláček, D., & Schwarz, D. (2021). Anomaly Detection Algorithm for Real-World Data and Evidence in Clinical Research: Implementation, Evaluation, and Validation study. JMIR Medical Informatics, 9(5), e27172. https://doi.org/10.2196/27172
+      
       34. Comparative Analysis of Voting Schemes for Ensemble-based Malware Detection∗. (n.d.). School of Computing Blekinge Institute of Technology. https://www.diva-portal.org/smash/get/diva2:834570/FULLTEXT01.pdf
+      
       35. Michael. (2024a, June 25). Data labeling in Healthcare: Applications and impact. Keymakr’s Blog Features the Latest News and Updates. https://keymakr.com/blog/data-labeling-in-healthcare-applications-and-impact/
 
 
